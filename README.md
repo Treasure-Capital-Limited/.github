@@ -1,6 +1,6 @@
-# TCL Organization
+# Treasure Capital Limited Organization
 
-Welcome to the TCL Organization on GitHub! 🎉
+Welcome to the Treasure Capital Limited Organization on GitHub! 🎉
 
 ## About Us
 
@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 ---
 
-Thank you for being a part of the Awesome Organization! If you have any questions or suggestions, feel free to [open an issue](https://github.com/awesomeorg/repo/issues) or [reach out to us](mailto:contact@tclfinance.co.ke).
+Thank you for being a part of the Treasure Capital Limited Organization! If you have any questions or suggestions, feel free to [open an issue](https://github.com/Treasure-Capital-limited/repo/issues) or [reach out to us](mailto:contact@tclfinance.co.ke).
